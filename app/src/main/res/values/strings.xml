@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BernabeCathleenLab2</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="back1">Back1</string>
+    <string name="next">Next</string>
+    <string name="button">Button</string>
+    <string name="robbinsdale_residences">ROBBINSDALE RESIDENCES</string>
+    <string name="distance1">Distance1</string>
+    <string name="location1">Location1</string>
+    <string name="next1">Next1</string>
+    <string name="button4">Button4</string>
+    <string name="location2">Location2</string>
+    <string name="todo">TODO</string>
+    <string name="winford">Winford</string>
+    <string name="distance2">Distance2</string>
+    <string name="todo">TODO</string>
+    <string name="nextnext">nextnext</string>
+    <string name="loc">loc</string>
+    <string name="dist">dist</string>
+    <string name="winfordhotel">winfordhotel</string>
+    <string name="backback">backback</string>
+    <string name="winford_hotel_and_casino">WINFORD HOTEL AND CASINO</string>
+    <string name="strbackback">strbackback</string>
+    <string name="string_strbackback" />
+    <string name="button">Button</string>
+    <string name="next">Next</string>
+    <string name="distance3">distance3</string>
+    <string name="location">location</string>
+    <string name="skylofthotel">SkyloftHotel</string>
+    <string name="todo">TODO</string>
+    <string name="next11">next11</string>
+    <string name="buttn">buttn</string>
+    <string name="nxt">nxt</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+</resources>
